@@ -1,2 +1,2 @@
-# Tech-Horizon
+# Tech-Horizons
 Mini-projet (Dév. Web)
